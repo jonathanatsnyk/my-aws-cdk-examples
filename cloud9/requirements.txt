@@ -1,3 +1,4 @@
 aws-cdk-lib==2.62.2
 constructs>=10.0.0,<11.0.0
 #aws-cdk.aws-cloud9-alpha>=2.10.0a0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
